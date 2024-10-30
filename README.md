@@ -7,7 +7,7 @@
 
 <div align="center">
   <hl>
-  <h1><a href="./WORKSHOP.md">Read more on the website</a></h1>
+  <h1><a href="https://cybercapabilities.org/">Read more on the website</a></h1>
   <hl>
 </div>
 
