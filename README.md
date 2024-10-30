@@ -1,11 +1,13 @@
 <div align="center">
-  <h1>🌋 Catastrophic Cyber Capabilities Benchmark (3CB)</h1>
-  <p>AI is improving rapidly and rogue or misapplied AI presents large-scale, novel risks to society. The clearest failure cases involve cyber capabilities. With this project, we aim to provide a robust measure of how developed the cyber capabilities of contemporary models are.</p>
+  <h1>🌋 Catastrophic Cyber Capabilities Benchmark (3cb)</h1>
+  <p>What happens when AI agents become capable hackers? And what can we do to figure out whether they are? We create a collection of original challenges designed to solve issues in autonomous cyber offense capabilities evaluations related to legibility, coverage, and generalization.
+
+</p>
 </div>
 
 <div align="center">
   <hl>
-  <h1><a href="./WORKSHOP.md">AIATL Workshop</a></h1>
+  <h1><a href="./WORKSHOP.md">Read more on the website</a></h1>
   <hl>
 </div>
 
